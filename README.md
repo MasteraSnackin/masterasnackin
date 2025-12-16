@@ -115,7 +115,7 @@
 </div>
 
 ---
-## Contribution Snake
+## Contribution Pacman
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
@@ -167,6 +167,9 @@ Feel free to reach out for collaborations, blockchain discussions, or just to sa
 I'm always excited to connect with fellow developers and innovators in the Web3 space! 🚀
 
 **Let's build the decentralized future together!** ⛓️
+
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/davecheng82/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/masteraSnackin" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.youtube.com/channel/UCrDf0eYpFIZorlHcnwYLGbw" 
 
 </div>
 
