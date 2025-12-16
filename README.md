@@ -42,7 +42,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=MasteraSnackin&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=MasteraSnackin&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />alt="GitHub Trophies" />alt="GitHub Trophies" />
 </div>
 
 ---
