@@ -115,7 +115,7 @@
 </div>
 
 ---
-## Contribution Pacman
+## 🥠 Contribution Pacman
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
@@ -131,6 +131,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MasteraSnackin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasteraSnackin&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
+
+## 🏓 Contribution Pong
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MasteraSnackin&theme=radical&hide_border=true" alt="GitHub Streak" />
