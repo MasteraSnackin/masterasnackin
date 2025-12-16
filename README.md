@@ -42,8 +42,11 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=MasteraSnackin&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />alt="GitHub Trophies" />alt="GitHub Trophies" />
+      <!-- GitHub Trophy service is temporarily unavailable. Will be restored when service is back online. -->
+  <p><em>Trophy display temporarily unavailable</em></p>
 </div>
+
+
 
 ---
 
