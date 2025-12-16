@@ -1,83 +1,147 @@
-# Hi there 👋, my name is MasterAsnackin
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MasteraSnackin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-
-## 🙋‍♂️ About me
-
-![Profile views](https://komarev.com/ghpvc/?username=masterasnackin&label=Profile%20views&color=0e75b6&style=flat)
-
-I'm passionate about blockchain technology and building innovative decentralized applications 🚀. I love working with Rust, TypeScript, JavaScript, and exploring the intersection of AI and Web3 💻. When I'm not coding, I enjoy learning new technologies and contributing to open-source projects.
-
-## 🔭 I'm currently working on
-
 <div align="center">
-  <a href="https://github.com/MasteraSnackin/SkillBridge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MasteraSnackin&repo=SkillBridge&theme=dark" />
-  </a>
-  <a href="https://github.com/MasteraSnackin/CreatorHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MasteraSnackin&repo=CreatorHub&theme=dark" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+MasterAsnackin;Blockchain+Developer+%F0%9F%94%97;Building+the+Decentralized+Future+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-- [SkillBridge](https://github.com/MasteraSnackin/SkillBridge) - A decentralized marketplace for freelancers powered by Stellar blockchain ⚡
-- [CreatorHub](https://github.com/MasteraSnackin/CreatorHub) - A next-gen platform for creators powered by AI + blockchain 🌟
-- Various blockchain and Web3 projects 🔗
-
-## 🌱 I'm currently learning
-
-- 🦀 Advanced Rust programming
-- 📜 Smart contract development
-- 🌐 Cross-chain interoperability
-- 🤖 AI/ML integration with blockchain
-
-## 🔨 I've contributed to
-
 <p align="center">
-  <a href="https://github.com/MasteraSnackin/SkillBridge">
-    <img src="https://img.shields.io/badge/SkillBridge-Rust-orange?style=for-the-badge&logo=rust" />
+  <a href="https://github.com/MasteraSnackin">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/MasteraSnackin/CreatorHub">
-    <img src="https://img.shields.io/badge/CreatorHub-TypeScript-blue?style=for-the-badge&logo=typescript" />
+  <a href="https://twitter.com">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://github.com/MasteraSnackin/EchoPay-2">
-    <img src="https://img.shields.io/badge/EchoPay--2-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-- [SkillBridge](https://github.com/MasteraSnackin/SkillBridge) - Decentralized marketplace 💼
-- [CreatorHub](https://github.com/MasteraSnackin/CreatorHub) - AI-powered creator platform 🎨
-- [EchoPay-2](https://github.com/MasteraSnackin/EchoPay-2) - Voice-commanded payments 🎤
-- [MultiversX-WCCD23](https://github.com/MasteraSnackin/MultiversX-WCCD23) - Blockchain solutions ⛓️
-- [open-webui](https://github.com/MasteraSnackin/open-webui) - AI interface 🤖
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=masterasnackin&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+- 🔭 I'm currently working on **SkillBridge** & **CreatorHub**
+- 🌱 I'm learning **Advanced Rust** & **Smart Contract Development**
+- 💡 I'm passionate about **Blockchain, Web3, AI & DeFi**
+- 💬 Ask me about **Rust, TypeScript, Stellar, Solidity**
+- ⚡ Fun fact: **I build dreams with code** 🚀
+
+<br clear="both">
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MasteraSnackin&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🔭 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/MasteraSnackin/SkillBridge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MasteraSnackin&repo=SkillBridge&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/MasteraSnackin/CreatorHub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MasteraSnackin&repo=CreatorHub&theme=radical&hide_border=true" />
+  </a>
+</div>
+
+### 🚀 What I'm Building:
+
+- **[SkillBridge](https://github.com/MasteraSnackin/SkillBridge)** - Decentralized freelance marketplace on Stellar ⚡
+- **[CreatorHub](https://github.com/MasteraSnackin/CreatorHub)** - AI-powered platform for creators 🌟
+- **[EchoPay-2](https://github.com/MasteraSnackin/EchoPay-2)** - Voice-commanded blockchain payments 🎤
+- **[MultiversX-WCCD23](https://github.com/MasteraSnackin/MultiversX-WCCD23)** - Cross-chain solutions ⛓️
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Blockchain & Web3
+![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=stellar&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### Tools & Databases
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MasteraSnackin&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MasteraSnackin&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MasteraSnackin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasteraSnackin&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MasteraSnackin&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=stellar&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MasteraSnackin&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</div>
 
-## 📫 How to reach me
+---
 
-Feel free to connect with me on GitHub or check out my projects! Always open to collaboration and discussing blockchain innovations 🚀
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MasteraSnackin/MasteraSnackin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## ✨ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+Feel free to reach out for collaborations, blockchain discussions, or just to say hi! 👋
+
+I'm always excited to connect with fellow developers and innovators in the Web3 space! 🚀
+
+**Let's build the decentralized future together!** ⛓️
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=masterasnackin&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
