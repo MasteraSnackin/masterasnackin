@@ -2,7 +2,7 @@
 <div align="center">
   
 <img src="https://camo.githubusercontent.com/e7ae6aeae08b584ce56cd85e89dc9edbd700924e1da6b935e8a6ddae8e75241a/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313632313032343339342f33393039322f6361742d726f6c6c2e6769663f31363231303234333934" height="30px" width="30px">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+MasterAsnackin;Blockchain+Developer+%F0%9F%94%97;Building+the+Decentralized+Future+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+MasterAsnackin;Blockchain+Developer+%F0%9F%94%97;Building+the+Decentralized+Future+%F0%9F%9A%80" alt="Typing SVG" />
   <img src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" height="30px" width="30px">
 
 <p align="center"><a href="https://www.linkedin.com/in/davecheng82/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/masteraSnackin" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.youtube.com/channel/UCrDf0eYpFIZorlHcnwYLGbw"   
@@ -37,7 +37,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MasteraSnackin&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MasteraSnackin&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=MasteraSnackin&theme=radical&hide_border=true" alt="GitHub Streak" />
     
 </div>
 
@@ -135,7 +135,7 @@
 </picture>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MasteraSnackin&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=MasteraSnackin&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
