@@ -18,6 +18,11 @@
 
 ---
 
+## 👨‍💻 What I Do
+
+Building decentralized products with Rust, TypeScript, and Stellar. Specializing in smart contracts, DeFi protocols, and creator tools on-chain.
+
+
 ## 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
@@ -56,9 +61,9 @@
 
 ### 🚀 What I'm Building:
 
-- **[SkillBridge](https://github.com/MasteraSnackin/SkillBridge)** - Decentralized freelance marketplace on Stellar ⚡
-- **[CreatorHub](https://github.com/MasteraSnackin/CreatorHub)** - AI-powered platform for creators 🌟
-- **[EchoPay-2](https://github.com/MasteraSnackin/EchoPay-2)** - Voice-commanded blockchain payments 🎤
+- **[SkillBridge](https://github.com/MasteraSnackin/SkillBridge)** - Decentralized freelance marketplace on Stellar ⚡ (Testnet MVP ready)
+- **[CreatorHub](https://github.com/MasteraSnackin/CreatorHub)** - AI-powered platform for creators 🌟 (Beta with 20+ creators)
+- **[EchoPay-2](https://github.com/MasteraSnackin/EchoPay-2)** - Voice-commanded blockchain payments 🎤 (Hackathon finalist)
 - **[MultiversX-WCCD23](https://github.com/MasteraSnackin/MultiversX-WCCD23)** - Cross-chain solutions ⛓️
 
 ---
@@ -165,6 +170,8 @@
 Feel free to reach out for collaborations, blockchain discussions, or just to say hi! 👋
 
 I'm always excited to connect with fellow developers and innovators in the Web3 space! 🚀
+
+**Open to:** Part-time Rust/Web3 roles, hackathons, and collaborations on Stellar-based products.
 
 **Let's build the decentralized future together!** ⛓️
 
