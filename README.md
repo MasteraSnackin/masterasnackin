@@ -166,11 +166,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MasteraSnackin&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.herokuapp.com/?user=MasteraSnackin&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MasteraSnackin&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MasteraSnackin&theme=radical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 ---
