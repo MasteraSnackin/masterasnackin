@@ -1,35 +1,83 @@
-
 <div align="center">
-  
-<img src="https://camo.githubusercontent.com/e7ae6aeae08b584ce56cd85e89dc9edbd700924e1da6b935e8a6ddae8e75241a/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313632313032343339342f33393039322f6361742d726f6c6c2e6769663f31363231303234333934" height="30px" width="30px">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+MasterAsnackin;Blockchain+Developer+%F0%9F%94%97;Building+the+Decentralized+Future+%F0%9F%9A%80" alt="Typing SVG" />
-  <img src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" height="30px" width="30px">
+  <img
+    src="https://camo.githubusercontent.com/e7ae6aeae08b584ce56cd85e89dc9edbd700924e1da6b935e8a6ddae8e75241a/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313632313032343339342f33393039322f6361742d726f6c6c2e6769663f31363231303234333934"
+    height="30"
+    width="30"
+  />
 
-<p align="center"><a href="https://www.linkedin.com/in/davecheng82/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/masteraSnackin" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.youtube.com/channel/UCrDf0eYpFIZorlHcnwYLGbw"   
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+MasterAsnackin;Blockchain+Developer+%F0%9F%94%97;Building+the+Decentralized+Future+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
+
+  <img
+    src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234"
+    height="30"
+    width="30"
+  />
 </div>
 
-  <a href="https://github.com/MasteraSnackin">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/davecheng82/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg"
+      alt="LinkedIn"
+      width="40"
+      height="40"
+      style="margin: 0 8px;"
+    />
+  </a>
+  <a href="https://x.com/masteraSnackin" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg"
+      alt="Twitter"
+      width="40"
+      height="40"
+      style="margin: 0 8px;"
+    />
+  </a>
+  <a href="https://www.youtube.com/channel/UCrDf0eYpFIZorlHcnwYLGbw" target="_blank">
+    <img
+      src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+      alt="YouTube"
+      style="margin: 0 8px;"
+    />
+  </a>
+  <a href="https://github.com/MasteraSnackin" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+      style="margin: 0 8px;"
+    />
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=masterasnackin&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=masterasnackin&label=Profile%20views&color=blueviolet&style=for-the-badge"
+    alt="Profile views"
+  />
 </div>
 
 ---
 
 ## 👨‍💻 What I Do
 
-Building decentralized products with Rust, TypeScript, and Stellar. Specializing in smart contracts, DeFi protocols, and creator tools on-chain.
-
+- **Building** decentralized products with Rust, TypeScript, and Stellar  
+- Focused on smart contracts, DeFi protocols, and on-chain creator tools
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img
+  align="right"
+  alt="Coding"
+  width="400"
+  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
+/>
 
-- 🔭 I'm currently working on **SkillBridge** & **CreatorHub**
-- 🌱 I'm learning **Advanced Rust** & **Smart Contract Development**
-- 💡 I'm passionate about **Blockchain, Web3, AI & DeFi**
+- 🔭 Currently working on **SkillBridge** and **CreatorHub**  
+- 🌱 Learning **advanced Rust** and **smart contract development**  
+- 💡 Passionate about **blockchain, Web3, AI, and DeFi**  
 - 💬 Ask me about **Rust, TypeScript, Stellar, Solidity**
 - ⚡ Fun fact: **I build dreams with code** 🚀
 
