@@ -161,8 +161,8 @@
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MasteraSnackin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MasteraSnackin&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+<!--   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api? -->username=MasteraSnackin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<!--   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/? -->username=MasteraSnackin&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
