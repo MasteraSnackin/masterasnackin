@@ -161,16 +161,16 @@
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MasteraSnackin&show_icons=true&theme=redical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasteraSnackin&layout=compact&langs_count=8&theme=redical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MasteraSnackin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasteraSnackin&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MasteraSnackin&theme=redical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MasteraSnackin&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MasteraSnackin&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MasteraSnackin&theme=radical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 ---
@@ -186,7 +186,7 @@
 ## ✨ Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=redical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 ---
