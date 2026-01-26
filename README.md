@@ -63,8 +63,8 @@
 
 ## 👨‍💻 What I Do
 
-- **Building** decentralized products with Rust, TypeScript, and Stellar  
-- Focused on smart contracts, DeFi protocols, and on-chain creator tools
+- **Building** AI-powered applications with Python, TypeScript, and modern ML frameworks  
+- Developing LLM integrations, intelligent agents, and AI-driven automation solutions
 
 ## 👨‍💻 About Me
 
@@ -76,9 +76,9 @@
 />
 
 - 🔭 Currently working on **SkillBridge** and **CreatorHub**  
-- 🌱 Learning **advanced Rust** and **smart contract development**  
-- 💡 Passionate about **blockchain, Web3, AI, and DeFi**  
-- 💬 Ask me about **Rust, TypeScript, Stellar, Solidity**
+- 🌱 Learning **machine learning**, **LLM fine-tuning**, and **AI agent development**  
+- 💡 Passionate about **AI/ML, intelligent automation, NLP, and emerging technologies**  
+- 💬 Ask me about **Python, LangChain, OpenAI APIs, PyTorch, TypeScript**
 - ⚡ Fun fact: **I build dreams with code** 🚀
 
 <br clear="both">
