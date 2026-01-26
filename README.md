@@ -74,9 +74,9 @@
   src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
 />
 
-- 🔭 Currently working on **SkillBridge**, **CreatorHub**, **CraftKicks**, and **Narrative-Vaults**
+- 🔭 Currently working on **SkillBridge**, **CreatorHub**, **CraftKicks**, and **Gapseeker**
 - 🌱 Learning **advanced Rust** and **smart contract development**  
-- 💡 Passionate about **Web3, AI, blockchain, and DeFi**  
+- 💡 Passionate about **Web3, AI, , ML, blockchain, and DeFi**  
 - 💬 Ask me about **Rust, TypeScript, Stellar, Solidity**
 - ⚡ Fun fact: **I build dreams with code** 🚀
 
@@ -97,13 +97,10 @@
 ### 🚀 What I'm Building:
 
 - **[SkillBridge](https://github.com/MasteraSnackin/SkillBridge)** - Decentralized freelance marketplace on Stellar ⚡ (Testnet MVP ready)
-- **[CreatorHub](https://github.com/MasteraSnackin/CreatorHub)** - AI-powered platform for creators 🌟 (Beta with 20+ creators)
 - **[CraftKicks](https://github.com/MasteraSnackin/CraftKicks)** - AI sneaker design studio with 4-angle 3D view 👟 (Professional design tool)
-- - **[ChooseFrame](https://github.com/MasteraSnackin/ChooseFrame)** - AI-powered interactive comic story generator 📖 (Dynamic visual narratives)
-- **[Narrative-Vaults](https://github.com/MasteraSnackin/Narrative-Vaults)** - DeFi trading vaults on Hyperliquid 📊 (Automated trading)
+- **[ChooseFrame](https://github.com/MasteraSnackin/ChooseFrame)** - AI-powered interactive comic story generator 📖 (Dynamic visual narratives)
 - **[lazorkit-passkey-demo](https://github.com/MasteraSnackin/lazorkit-passkey-demo)** - Passkey authentication on Solana 🔐 (Gasless transactions)
 - **[SignBridge](https://github.com/MasteraSnackin/SignBridge)** - Real-time sign language translation 🤟 (Offline AI-powered)
-- **[AmplifyAI](https://github.com/MasteraSnackin/AmplifyAI)** - Video marketing AI strategist 🎥 (Gemini 2.5 powered)
 - **[Gapseeker](https://github.com/MasteraSnackin/Gapseeker)** - Educational video learning system 📚 (AI-powered insights)
 - **[EchoPay-2](https://github.com/MasteraSnackin/EchoPay-2)** - Voice-commanded blockchain payments 🎤 (Hackathon finalist)
 ---
