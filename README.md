@@ -75,7 +75,7 @@
   src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
 />
 
-- 🔭 Currently working on **SkillBridge** and **CreatorHub**  
+- 🔭 Currently working on **SkillBridge**, **CreatorHub**, **CraftKicks**, and **Narrative-Vaults**
 - 🌱 Learning **advanced Rust** and **smart contract development**  
 - 💡 Passionate about **blockchain, Web3, AI, and DeFi**  
 - 💬 Ask me about **Rust, TypeScript, Stellar, Solidity**
@@ -99,9 +99,15 @@
 
 - **[SkillBridge](https://github.com/MasteraSnackin/SkillBridge)** - Decentralized freelance marketplace on Stellar ⚡ (Testnet MVP ready)
 - **[CreatorHub](https://github.com/MasteraSnackin/CreatorHub)** - AI-powered platform for creators 🌟 (Beta with 20+ creators)
+- **[CraftKicks](https://github.com/MasteraSnackin/CraftKicks)** - AI sneaker design studio with 4-angle 3D view 👟 (Professional design tool)
+- **[Narrative-Vaults](https://github.com/MasteraSnackin/Narrative-Vaults)** - DeFi trading vaults on Hyperliquid 📊 (Automated trading)
+- **[lazorkit-passkey-demo](https://github.com/MasteraSnackin/lazorkit-passkey-demo)** - Passkey authentication on Solana 🔐 (Gasless transactions)
+- **[SignBridge](https://github.com/MasteraSnackin/SignBridge)** - Real-time sign language translation 🤟 (Offline AI-powered)
+- **[AmplifyAI](https://github.com/MasteraSnackin/AmplifyAI)** - Video marketing AI strategist 🎥 (Gemini 2.5 powered)
+- **[Gapseeker](https://github.com/MasteraSnackin/Gapseeker)** - Educational video learning system 📚 (AI-powered insights)
+- **[RentGuard](https://github.com/MasteraSnackin/RentGuard)** - Tenant advocacy platform ⚖️ (Community empowerment)
 - **[EchoPay-2](https://github.com/MasteraSnackin/EchoPay-2)** - Voice-commanded blockchain payments 🎤 (Hackathon finalist)
 - **[MultiversX-WCCD23](https://github.com/MasteraSnackin/MultiversX-WCCD23)** - Cross-chain solutions ⛓️
-
 ---
 
 ## 🛠️ Tech Stack
