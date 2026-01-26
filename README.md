@@ -6,7 +6,7 @@
   />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+MasterAsnackin;Blockchain+Developer+%F0%9F%94%97;Building+the+Decentralized+Future+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+MasterAsnackin;AI+%2F+ML+Engineer+%F0%9F%94%97;Building+the+Decentralized+Future+%F0%9F%9A%80"
     alt="Typing SVG"
   />
 
@@ -63,9 +63,8 @@
 
 ## 👨‍💻 What I Do
 
-- **Building** decentralized products with Rust, TypeScript, and Stellar  
-- Focused on smart contracts, DeFi protocols, and on-chain creator tools
-
+- **Building** AI-powered applications with machine learning, computer vision, and LLMs
+- Focused on intelligent agents, video analysis, generative AI, and on-device ML models
 ## 👨‍💻 About Me
 
 <img
