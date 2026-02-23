@@ -85,15 +85,15 @@
 
 ---
 
-### 🚀 What I'm Building:
-
+### 🚀 What I'm Building
+- **[LocalFirst Orchestrator](https://github.com/MasteraSnackin/LFO)** - Hybrid inference router for local-plus-cloud LLMs via a single OpenAI-compatible endpoint (3rd Prize)
+- **[Domus](https://github.com/younis-y/RealTech-Hackathon/tree/dev)** - AI-powered property recommendation engine with persona-based scoring and intelligent multi-source data enrichment, with additional video output (3rd Prize)
 - **[SkillBridge](https://github.com/MasteraSnackin/SkillBridge)** - Decentralized freelance marketplace on Stellar ⚡ (Testnet MVP ready)
-- **[CraftKicks](https://github.com/MasteraSnackin/CraftKicks)** - AI sneaker design studio with 4-angle 3D view 👟 (Professional design tool)
-- **[ChooseFrame](https://github.com/MasteraSnackin/ChooseFrame)** - AI-powered interactive comic story generator 📖 (Dynamic visual narratives)
+- **[CraftKicks](https://github.com/MasteraSnackin/CraftKicks1)** - AI sneaker design studio with 4-angle 3D view 👟 (Professional design tool)
+- **[ChooseFrame](https://github.com/MasteraSnackin/ChooseFrame)** - AI-powered interactive comic story generator 📖 (Dynamic visual narratives, Honourable mention)
 - **[lazorkit-passkey-demo](https://github.com/MasteraSnackin/lazorkit-passkey-demo)** - Passkey authentication on Solana 🔐 (Gasless transactions)
-- **[SignBridge](https://github.com/MasteraSnackin/SignBridge)** - Real-time sign language translation 🤟 (Offline AI-powered)
-- **[Gapseeker](https://github.com/MasteraSnackin/Gapseeker)** - Educational video learning system 📚 (AI-powered insights)
-- **[EchoPay-2](https://github.com/MasteraSnackin/EchoPay-2)** - Voice-commanded blockchain payments 🎤 (Hackathon finalist)
+- **[Gapseeker](https://github.com/MasteraSnackin/Gapseeker)** - Educational video learning system 📚 (AI-powered insights, 1st Prize)
+- **[EchoPay-2](https://github.com/MasteraSnackin/EchoPay-2)** - Voice-commanded blockchain payments 🎤 (2nd Prize)
 ---
 
 ## 🛠️ Tech Stack
